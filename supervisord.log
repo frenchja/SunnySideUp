@@ -1,0 +1,17 @@
+2014-06-23 18:50:10,859 CRIT Set uid to user 0
+2014-06-23 18:50:10,872 INFO daemonizing the supervisord process
+2014-06-23 18:50:10,873 INFO supervisord started with pid 12371
+2014-06-23 18:50:11,882 INFO spawned: 'myserver' with pid 12372
+2014-06-23 18:50:13,189 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-23 18:50:17,215 INFO exited: myserver (exit status 1; not expected)
+2014-06-23 18:50:18,222 INFO spawned: 'myserver' with pid 12379
+2014-06-23 18:50:19,408 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-23 18:50:23,434 INFO exited: myserver (exit status 1; not expected)
+2014-06-23 18:50:24,441 INFO spawned: 'myserver' with pid 12386
+2014-06-23 18:50:25,624 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-23 18:50:29,649 INFO exited: myserver (exit status 1; not expected)
+2014-06-23 18:50:30,656 INFO spawned: 'myserver' with pid 12391
+2014-06-23 18:50:31,837 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-23 18:50:34,658 WARN received SIGTERM indicating exit request
+2014-06-23 18:50:34,658 INFO waiting for myserver to die
+2014-06-23 18:50:35,677 INFO stopped: myserver (exit status 1)
