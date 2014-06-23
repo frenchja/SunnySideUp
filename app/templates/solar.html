@@ -1,0 +1,168 @@
+{% extends "layout/base.html" %}
+
+{% block head %}
+  <style>
+    body {
+      overflow-y: auto;
+    }
+    #top {
+      margin-top: 60px;
+    }
+  </style>
+{% endblock %}
+
+{% block scripts %}
+<script type="text/javascript" src="{{ url_for('static', filename='js/Chart.min.js') }}"></script>
+<script type="text/javascript">
+function createChart()
+        {
+            //Get the context of the canvas element we want to select
+            var ctx = document.getElementById("myChart").getContext("2d");
+
+            //Create the data object to pass to the chart
+            var data = {
+                labels : ["Year 1","Year 5","Year 10","Year 15","Year 20","Year 25"],
+                datasets : [
+
+                            {
+                                fillColor : "rgba(151,187,205,0.5)",
+                                strokeColor : "rgba(151,187,205,1)",
+                                data : [{{(usage * rate*12)-((size * 111.1111)*4.8*9)}},{{(usage * rate*60)-((size * 111.1111)*4.8*9)}},{{(usage * rate*120)-((size * 111.1111)*4.8*9)}},{{(usage * rate*180)-((size * 111.1111)*4.8*9)}},{{(usage * rate*240)-((size * 111.1111)*4.8*9)}},{{(usage * rate*300)-((size * 111.1111)*4.8*9)}}]
+                            },
+                            {
+                                fillColor: "rgba(255, 0, 0, 0)",
+                                strokeColor: "rgba(255, 0, 0, 1)",
+                                data : [0,0,0,0,0,0]
+                            }
+                           ]
+                      };
+
+            //The options we are going to pass to the chart
+            options = {
+                barDatasetSpacing : 15,
+                barValueSpacing: 10,
+                bezierCurve : false
+            };
+
+            //Create the chart
+            new Chart(ctx).Line(data, options);
+        }
+</script>
+{% endblock %}
+
+{% block content %}
+<body onload="createChart();">
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div id="top" class="container marketing">
+
+    <!-- START THE FEATURETTES -->
+
+    <div class="row featurette">
+        <div class="col-md-12 alert alert-warning">
+            <h2 class="lead text-center">
+            Recommendation: <strong>
+            {% if (usage * rate * age*12)-((size * 111.1111)*4.8*9) > 0 %}
+            Buy Solar! You'll save ${{((usage * rate * age*12)-((size * 111.1111)*4.8*9))|round|int}}
+            {% else %}
+            Not Worth It! You'll lose ${{((usage * rate * age*12)-((size * 111.1111)*4.8*9))|abs|round|int}}
+            {% endif %}
+            </strong>
+            </p>
+        </div>
+      <div class="col-md-6">
+        <h2 class="featurette-heading text-center">
+          Home Information
+        </h2>
+        <p class="lead">
+          Estimated Sq. Ft. for {{ address|trim|striptags|title }}: <strong>{{ area|round }}</strong>
+        </p>
+        <h3>Energy Usage</h3>
+        <p class="lead">
+          Estimated kWh/month: <strong>{{ usage }}</strong>
+        </p>
+        <p class="lead">
+          Estimated kWh/day: <strong> {{ usage/30.4368|round }}</strong>
+        </p>
+        <h3>Utility Bill</h3>
+        <p class="lead">
+        Utility Rates ($/kWh) for {{ zip_code }}: <strong>{{ rate|round(3) }}</strong>
+        </p>
+        <p class="lead">
+            Monthly Bill: <strong>${{ (usage * rate)|round(2) }}</strong>
+        </p>
+
+      </div>
+      <div class="col-md-6">
+      <h2 class="featurette-heading text-center">
+        Roof Analysis
+      </h2>
+      <p class="lead">
+        Image centered at:
+        <ul>
+          <li>Latitude: {{ lat|round(2, 'common') }}</li>
+          <li>Longitude: {{ lng|round(2, 'common') }}</li>
+        <img class="img-responsive img-rounded" src="{{ url_for('getMap', address=address) }}" style="margin-left:auto;margin-right:auto;"/>
+      </div>
+      <div class="col-md-12">
+        <h1>Solar Information</h1>
+        <table class="table">
+            <tr>
+                <td><strong>Coverage</strong></td>
+                <td><strong>Size Needed</strong></td>
+                <td><strong>Cost</strong></td>
+                <td><strong>kWh Produced</strong></td>
+            </tr>
+            <tr>
+                <td>100%</td>
+                <td>{{ (size * 111.1111) |round(2, 'common')}} Sq. Ft.</td>
+                <td>${{ ((size * 111.1111)*4.8*9)|round }}</td>
+                <td>{{ usage }} kWh/month</td>
+            </tr>
+            <tr>
+                <td>50%</td>
+                <td>{{ ((size*111.1111)/ 2)|round(2, 'common') }} Sq. Ft.</td>
+                <td>${{(((size*111.1111)/ 2)*4.8*9)|round}}</td>
+                <td>{{ usage /2 }} kWh/month</td>
+            </tr>
+            <tr>
+                <td>20%</td>
+                <td>{{ ((size * 111.1111)/ 5)|round(2, 'common')}} Sq. Ft.</td>
+                <td>${{(((size * 111.1111)/ 5)*4.8*9)|round}}</td>
+                <td>{{ usage /5}} kWh/month</td>
+            </tr>
+        </table>
+        <h2 class="featurette-heading text-center">
+          Savings Over Time
+        </h2>
+        <p class="lead">
+        <canvas id="myChart" width="800" height="400"></canvas>
+        </p>
+      </div>
+      <div class="row">
+          <div class="col-md-12">
+
+          </div>
+      <div class="col-md-12">
+        <h2 class="featurette-heading text-center">
+        Estimated Solar Output
+        </h2>
+        <p class="lead">
+
+        </p>
+      </div>
+
+    </div>
+
+    <!-- /END THE FEATURETTES -->
+
+    <!-- FOOTER -->
+    <footer>
+      <p class="pull-right"><a href="#top">Back to top</a></p>
+      <p>&copy; Jason A. French</p>
+    </footer>
+
+  </div><!-- /.container -->
+{% endblock %}

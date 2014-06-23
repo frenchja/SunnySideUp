@@ -23,22 +23,27 @@
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading">
-          Build web apps with <span class="text-muted">Insight</span>.
+          Welcome to <span class="text-muted">Sunny Side Up</span>
         </h2>
         <p class="lead">
-          New to web development, and need a quick way to get started?
-          <strong>InsightFL</strong> is a pre-configured template
-          to help you get started building minimal web applications
-          with <a href="http://flask.pocoo.org/">Flask</a>.
+          Wouldn't it be nice if someone could see how much money solar power could save them
+          using just their address? <strong>I thought so too...</strong>
         </p>
         <p class="lead">
-          Check out the <a href="https://github.com/stormpython/insightfl#getting-started">Getting Started</a> guide.
+          <form role="form" method="post" action='/solar'>
+          <div class="form-group">
+            <label for="address">Enter an Address:</label>
+            <input type="text" class="form-control" name="address" placeholder="Street, City, State" autofocus>
+            <label for="age">Years you plan to stay:</label>
+            <input type="number" class="form-control" name="age" placeholder="Years" min = "0", max = "30">
+          </div>
+          <button type="submit" class="btn btn-info btn-lg btn-block">Submit</button>
+          </form>
         </p>
       </div>
       <div class="col-md-5">
-        <img class="featurette-image img-responsive"
-             src="http://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
-             style="margin-top: 50px;">
+          <img class="featurette-image img-responsive img-thumbnail center-block" src="{{ url_for('static', filename='images/640px-BAPV_solar-facade.JPG') }}"
+          style="margin: 0 auto;">
       </div>
     </div>
 
@@ -46,99 +51,28 @@
 
     <div class="row featurette">
       <div class="col-md-5">
-        <img class="featurette-image img-responsive"
-             src="http://bower.io/img/bower-logo.png" alt="Generic placeholder image">
+        <img class="featurette-image img-responsive center-block" width="75%"
+             src="{{ url_for('static', filename='images/sun.jpg') }}" alt="Sun logo">
       </div>
       <div class="col-md-7">
         <h2 class="featurette-heading">
-          Built with the <span class="text-muted">POWER</span> of <span class="text-muted">BOWER!</span>
+          Promoting Sustainable Energy
         </h2>
         <p class="lead">
-          Bower is a package manager for the web. Bower depends on <a href="http://nodejs.org">node</a>
-          and <a href="https://www.npmjs.org/">npm</a>. It can be installed globally using npm:
-        </p>
-        <pre>npm install -g bower</pre>
-        <p class="lead">
-          Download all your favorite frontend applications using a simple command interface. For example:
-        </p>
-        <pre>bower install bootstrap</pre>
-      </div>
-    </div>
-
-    <hr class="featurette-divider">
-
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading">
-          Bootstrap your app with <span class="text-muted">Twitter Bootstrap.</span>
-        </h2>
-        <p class="lead">
-          Bootstrap is the most popular frontend framework for developing responsive,
-          mobile first projects on the web. Easily get started building beautiful,
-          interactive web pages no matter your skill level.
-        </p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-responsive"
-             src="http://ollomedia.com/wp-content/uploads/Bootstrap-2-1-Is-the-Latest-Update-to-Twitter-s-Popular-Open-Source-Project.png"
-             alt="Generic placeholder image">
-      </div>
-    </div>
-
-    <hr class="featurette-divider">
-
-    <div class="row featurette">
-      <div class="col-md-5">
-        <img class="featurette-image img-responsive"
-             src="http://freebiesbug.com/wp-content/uploads/2013/09/reveal-js.jpg"
-             alt="Generic placeholder image">
-      </div>
-      <div class="col-md-7">
-        <h2 class="featurette-heading">
-          Create powerful HTML presentations with <span class="text-muted">Reveal.JS</span>.
-        </h2>
-        <p class="lead">
-          Reveal.js is a framework for easily creating beautiful presentations using HTML. There is even
-          a fully-featured visual editor. You can try it out at <a href="http://slid.es">http://slid.es</a>.
+          On average, the sun provides us with 84 Terrawatts of power! For a typical rooftop (i.e., 1100 square feet), that amounts to <strong>180 kWh/day</strong>.  So why don't more people take advantage of solar power?
+          Let's lower the barrier to entry using Google Maps!
         </p>
       </div>
     </div>
 
     <hr class="featurette-divider" style="margin-bottom: 0px;">
 
-    <div class="row featurette">
-      <a href="https://github.com/stormpython/insightfl">
-        <img style="position: absolute; top: 450; right: 0; border: 0; z-index: 1;"
-             src="https://github-camo.global.ssl.fastly.net/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67"
-             alt="Fork me on GitHub"
-             data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png">
-      </a>
-      <div class="col-md-7">
-        <h2 class="featurette-heading" style="margin-top: 50px;">
-          Everything is in version control from the <span class="text-muted">Git</span> go!
-        </h2>
-        <p class="lead">
-          Git is a free and open source distributed version control system designed to handle everything
-          from small to very large projects with speed and efficiency. New to Git?
-          <a href="http://try.github.io/levels/1/challenges/1">Try it!</a>
-        </p>
-        <p class="lead">
-          Already a git pro! Fork the project on <span class="text-muted">Github.</span>
-        </p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-responsive"
-             src="https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png"
-             alt="Generic placeholder image">
-      </div>
-    </div>
-
     <!-- /END THE FEATURETTES -->
 
     <!-- FOOTER -->
     <footer>
       <p class="pull-right"><a href="#top">Back to top</a></p>
-      <p>&copy; Shelby Sturgis. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      <p>&copy; Jason A. French</p>
     </footer>
 
   </div><!-- /.container -->

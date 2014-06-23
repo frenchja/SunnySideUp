@@ -26,5 +26,4 @@ user = app.config["DATABASE_USER"]
 passwd = app.config["DATABASE_PASSWORD"]
 db = app.config["DATABASE_DB"]
 
-
 from app import views

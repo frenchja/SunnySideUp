@@ -1,30 +1,45 @@
 {% extends "layout/base.html" %}
 
-{% block content %}
-  <div id="wrap">
-    <div class="container">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-5">
-            <img src="https://pbs.twimg.com/profile_images/2606534517/1b8nfpzh7jxixkfax26i.jpeg"
-                 class="img-responsive" height="300px" width="300px"/>
-          </div>
-          <div class="col-md-5">
-            <h1 class="text-justify text-muted">GET IN TOUCH</h1>
-            <p class="lead">I draw points on a canvas for a living, and in my former life I played with ants.</p>
-            <p class="lead">Sometimes I <a href="http://stormpython.me">blog</a>.</p>
-            <p class="lead">
-              Have feedback or want to contribute, submit a
-              <a href="https://github.com/stormpython/insightfl">pull request</a>.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+{% block head %}
+  <style>
+    body {
+      overflow-y: auto;
+      padding-top: 60px;
+      padding-bottom: 20px;
+    }
+    #top {
+      margin-top: 60px;
+  }
 
+.navbar {
+  margin-bottom: 20px;
+}
+  </style>
 {% endblock %}
 
-{% block footer %}
-  {% include "include/footer.html" %}
+{% block content %}
+<div class="container">
+<div class="container-fluid">
+<div class="jumbotron">
+    <h1 class="text-center">Jason A. French</h1>
+    <img width="25%" class="img-responsive img-circle center-block" src="{{ url_for('static', filename='images/jason.jpg') }}">
+    <p>I'm a Data Science Fellow at <a href="http://insightdatascience.com/">Insight</a> and the mind behind <strong>Sunny Side Up</strong>,
+        a web app designed to lower
+        the barrier to learning about the economics of solar energy for your particular
+        home. I co-develop <a href="https://sapa-project.org">SAPA Project</a>, an online personality collaboratory
+        that collects information from more than 40,000 people/year. I am also the lead developer of <a href="https://github.com/frenchja/SAPATools">SAPA Tools</a>,
+        a software package for R that facilitates analysis and scoring of large personality datasets.
+    </p>
+    <p>
+        My background is in individual differences and psychometrics.  I studied Cognitive and Personality Psychology at <a href="http://www.northwestern.edu/">Northwestern University</a>,
+        and am especially passionate about how data and statistics can be used to make
+        meaningful contributions.</p>
+    <p>Look me up on <a href="http://www.linkedin.com/pub/jason-french/98/767/9b1/">LinkedIn</a> or check out my <a href="//www.jason-french.com">academic home page</a> or my <a href="//github.com/frenchja">Github</a>!
+    </p>
+    <p>
+        <a class="btn btn-lg btn-primary center-block" href="{{ url_for('index') }}" role="button">Try out <strong>Sunny Side Up</strong> &raquo;</a>
+    </p>
+</div>
+</div>
+</div>
 {% endblock %}
