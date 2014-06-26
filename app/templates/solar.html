@@ -69,45 +69,60 @@ function createChart()
             {% else %}
             Not Worth It! You'll lose ${{((usage * rate * age*12)-((size * 111.1111)*4.8*9))|abs|round|int}}
             {% endif %}
-            </strong>
+            </strong></h2>
             </p>
         </div>
+    </div>
       <div class="col-md-6">
-        <h2 class="featurette-heading text-center">
-          Home Information
-        </h2>
-        <p class="lead">
+      <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">Home Information</h3>
+  </div>
+  <div class="panel-body">
+        <h3>Roof Area</h3>
+        <p>
           Estimated Sq. Ft. for {{ address|trim|striptags|title }}: <strong>{{ area|round }}</strong>
         </p>
         <h3>Energy Usage</h3>
-        <p class="lead">
+        <p>
           Estimated kWh/month: <strong>{{ usage }}</strong>
         </p>
-        <p class="lead">
+        <p>
           Estimated kWh/day: <strong> {{ usage/30.4368|round }}</strong>
         </p>
         <h3>Utility Bill</h3>
-        <p class="lead">
+        <p>
         Utility Rates ($/kWh) for {{ zip_code }}: <strong>{{ rate|round(3) }}</strong>
         </p>
-        <p class="lead">
+        <p>
             Monthly Bill: <strong>${{ (usage * rate)|round(2) }}</strong>
         </p>
+  </div>
+</div>
+</div>
 
-      </div>
       <div class="col-md-6">
-      <h2 class="featurette-heading text-center">
-        Roof Analysis
-      </h2>
-      <p class="lead">
+      <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">Roof Analysis</h3>
+  </div>
+  <div class="panel-body">
+      <p>
         Image centered at:
         <ul>
           <li>Latitude: {{ lat|round(2, 'common') }}</li>
           <li>Longitude: {{ lng|round(2, 'common') }}</li>
         <img class="img-responsive img-rounded" src="{{ url_for('getMap', address=address) }}" style="margin-left:auto;margin-right:auto;"/>
       </div>
+      </div>
+</div>
+
       <div class="col-md-12">
-        <h1>Solar Information</h1>
+      <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">Solar Coverage Information</h3>
+  </div>
+  <div class="panel-body">
         <table class="table">
             <tr>
                 <td><strong>Coverage</strong></td>
@@ -134,26 +149,37 @@ function createChart()
                 <td>{{ usage /5}} kWh/month</td>
             </tr>
         </table>
-        <h2 class="featurette-heading text-center">
-          Savings Over Time
-        </h2>
+        </div>
+        </div>
+        </div>
+
+  <div class="col-md-12">
+  <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">Savings Over Time</h3>
+  </div>
+  <div class="panel-body">
         <p class="lead">
         <canvas id="myChart" width="800" height="400"></canvas>
         </p>
       </div>
+      </div></div></div>
+      
       <div class="row">
-          <div class="col-md-12">
-
-          </div>
       <div class="col-md-12">
-        <h2 class="featurette-heading text-center">
-        Estimated Solar Output
-        </h2>
-        <p class="lead">
-
+      <div class="panel panel-default">
+      <div class="panel-heading">
+    <h3 class="panel-title text-center">Maximum Solar Output</h3>
+  </div>
+  <div class="panel-body">
+        <p>
+        {{ area * 0.009 }} kW
         </p>
-      </div>
+    </div>
 
+    </div>
+    </div>
+    </div>
     </div>
 
     <!-- /END THE FEATURETTES -->

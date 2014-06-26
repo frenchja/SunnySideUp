@@ -31,8 +31,8 @@
 
         <!-- Example of nested vertical slides -->
 
-        <section>
-            <h2>Solar Considerations</h2>
+        <!-- <section>
+            <h2>So Many Considerations...</h2>
             <ul>
                 <li>Type of roof and square footage</li>
                 <li>Proximity to trees</li>
@@ -42,7 +42,7 @@
                 <li>Solar Radiance / location</li>
                 <li>Estimated cost</li>
             </ul>
-        </section>
+        </section> -->
 
         <section>
             <h2>Image Analysis</h2>
@@ -54,20 +54,20 @@
         </section>
 
         <section>
-            <h2>Data!</h2>
-            <ul>
+            <h3>Linear Regression Using...</h3>
+            <ol>
                 <li>US Energy Information Administration</li>
                 <li>OpenEI Utility Companies and Rates by Zip</li>
                 <li>National Renewable Energy Lab</li>
                 <li>Open PV Project</li>
                 <li>Google Maps API</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <h2>Validation</h2>
             <ul>
             <li>Can I approximate real square footage?</li>
-            <li>70% accuracy.  My tracing over-estimates sq. footage (t(1737) = -5.1).</li>
+            <li>70% accuracy.  My tracing over-estimates sq. footage.</li>
             <li>Still much better than using US mean home size. This would assume a normal distribution of
             home size, despite SES.</li>
         </ul>
@@ -87,12 +87,20 @@
 
 
             <section>
-                <h3>Add New Databases</h3>
-                <ul>
-                    <li>Had a lead on an analytics company that has solar data on a per home basis.</li>
-                <li>Great way to validate roof tracing algorithm.</li>
-                <li>Database engineer position is now vacation... Haven't heard back.</li>
-            </ul>
+                <h3 class="text-center">Jason A. French</h3>
+                <p>
+        My background is in individual differences and psychometrics.</p>
+                <div class="row">
+      <div class="col-md-6">
+    <img width="50%" class="img-responsive img-circle center-block" src="{{ url_for('static', filename='images/jason.jpg') }}">
+    </div>
+    <div class="col-md-6">
+    <img width="50%" class="img-responsive center-block" src="{{ url_for('static', filename='images/NU_Logo_black.gif') }}">
+    </div>
+    <img width="50%" class="img-responsive center-block" src="{{ url_for('static', filename='images/intelligence.png')}}">
+
+    <p>Look me up on <a href="http://www.linkedin.com/pub/jason-french/98/767/9b1/">LinkedIn</a> or check out my <a href="//github.com/frenchja">Github at github.com/frenchja</a>!
+    </p>
             </section>
         </div>
     </div>
