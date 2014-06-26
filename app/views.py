@@ -59,7 +59,7 @@ def distanceRegion():
     return(dist)
 
 def getRate(zip_code):
-    engine = create_engine('mysql+pymysql://root@localhost/sustainable?charset=utf8&use_unicode=0', pool_recycle=3600)
+    engine = create_engine('mysql+pymysql://root@insight.cerljd9lmhhk.us-west-2.rds.amazonaws.com/sustainable?charset=utf8&use_unicode=0', pool_recycle=3600)
     connection = engine.connect()
     sql_command = "SELECT zip, resrate FROM utilities WHERE zip = '{0}'".format(zip_code)
     result = engine.execute(sql_command)
@@ -68,7 +68,7 @@ def getRate(zip_code):
     result.close()
 
 def getUsage(zip_code):
-    engine = create_engine('mysql+pymysql://root@localhost/sustainable?charset=utf8&use_unicode=0', pool_recycle=3600)
+    engine = create_engine('mysql+pymysql://root@insight.cerljd9lmhhk.us-west-2.rds.amazonaws.com/sustainable?charset=utf8&use_unicode=0', pool_recycle=3600)
     connection = engine.connect()
     sql_command = "SELECT kwh_month FROM consumption WHERE zip = '{0}'".format(zip_code)
     result = engine.execute(sql_command)
@@ -153,7 +153,7 @@ def getArea(address):
 def getSize(zip_code, usage):
     """Compute costs of solar system for given zip code
     """
-    engine = create_engine('mysql+pymysql://root@localhost/sustainable?charset=utf8&use_unicode=0', pool_recycle=3600)
+    engine = create_engine('mysql+pymysql://root@insight.cerljd9lmhhk.us-west-2.rds.amazonaws.com/sustainable?charset=utf8&use_unicode=0', pool_recycle=3600)
     connection = engine.connect()
     sql_command = "SELECT average_solar FROM solarhours WHERE zip_code = '{0}'".format(zip_code)
     result = engine.execute(sql_command)
