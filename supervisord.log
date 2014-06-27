@@ -15,3 +15,65 @@
 2014-06-23 18:50:34,658 WARN received SIGTERM indicating exit request
 2014-06-23 18:50:34,658 INFO waiting for myserver to die
 2014-06-23 18:50:35,677 INFO stopped: myserver (exit status 1)
+2014-06-26 22:38:32,548 CRIT Set uid to user 0
+2014-06-26 22:38:32,565 INFO daemonizing the supervisord process
+2014-06-26 22:38:32,566 INFO supervisord started with pid 19988
+2014-06-26 22:38:33,574 INFO spawned: 'myserver' with pid 19989
+2014-06-26 22:38:35,029 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-26 22:38:39,638 INFO exited: myserver (exit status 1; not expected)
+2014-06-26 22:38:40,649 INFO spawned: 'myserver' with pid 20010
+2014-06-26 22:38:42,185 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-26 22:38:45,693 INFO exited: myserver (exit status 3; not expected)
+2014-06-26 22:38:46,700 INFO spawned: 'myserver' with pid 20036
+2014-06-26 22:38:48,149 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-26 22:38:51,511 INFO exited: myserver (exit status 3; not expected)
+2014-06-26 22:38:52,521 INFO spawned: 'myserver' with pid 20062
+2014-06-26 22:38:53,863 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-26 22:39:10,866 INFO exited: myserver (exit status 3; not expected)
+2014-06-26 22:39:11,872 INFO spawned: 'myserver' with pid 20091
+2014-06-26 22:39:12,985 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-26 22:39:16,233 WARN received SIGTERM indicating exit request
+2014-06-26 22:39:16,233 INFO waiting for myserver to die
+2014-06-26 22:39:16,952 INFO stopped: myserver (exit status 0)
+2014-06-26 23:03:03,223 CRIT Set uid to user 0
+2014-06-26 23:03:03,269 INFO daemonizing the supervisord process
+2014-06-26 23:03:03,271 INFO supervisord started with pid 20812
+2014-06-26 23:03:04,279 INFO spawned: 'myserver' with pid 20813
+2014-06-26 23:03:04,497 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20813] [INFO] Starting gunicorn 18.0
+
+2014-06-26 23:03:04,498 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20813] [INFO] Listening at: http://0.0.0.0:5000 (20813)
+
+2014-06-26 23:03:04,499 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20813] [INFO] Using worker: sync
+
+2014-06-26 23:03:04,507 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20818] [INFO] Booting worker with pid: 20818
+
+2014-06-26 23:03:04,572 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20819] [INFO] Booting worker with pid: 20819
+
+2014-06-26 23:03:04,616 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20820] [INFO] Booting worker with pid: 20820
+
+2014-06-26 23:03:04,689 DEBG 'myserver' stderr output:
+2014-06-26 23:03:04 [20821] [INFO] Booting worker with pid: 20821
+
+2014-06-26 23:03:05,690 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-26 23:52:24,307 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-26 23:52:27,041 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 00:10:46,765 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 00:10:49,484 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
