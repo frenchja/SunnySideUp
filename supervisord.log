@@ -77,3 +77,1787 @@
 /usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
   return _label(input, neighbors, background, return_num)
 
+2014-06-27 01:35:14,506 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:36:26,897 DEBG 'myserver' stderr output:
+2014-06-27 01:36:26 [21377] [INFO] Booting worker with pid: 21377
+
+2014-06-27 01:36:27,009 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:36:30,428 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:38:29,971 DEBG 'myserver' stderr output:
+2014-06-27 01:38:29 [21381] [INFO] Booting worker with pid: 21381
+
+2014-06-27 01:38:30,122 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:38:34,089 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:45:40,032 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:45:42,936 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:46:19,668 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:46:30,656 DEBG 'myserver' stderr output:
+2014-06-27 01:46:30 [21385] [INFO] Booting worker with pid: 21385
+
+2014-06-27 01:46:34,444 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:47:24,702 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:47:27,402 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:47:40,321 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:48:13,249 DEBG 'myserver' stderr output:
+2014-06-27 01:48:09 [20813] [CRITICAL] WORKER TIMEOUT (pid:21385)
+
+2014-06-27 01:48:13,518 DEBG 'myserver' stderr output:
+2014-06-27 01:48:13 [21389] [INFO] Booting worker with pid: 21389
+
+2014-06-27 01:48:19,904 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 01:48:22,765 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 02:13:38,979 DEBG 'myserver' stderr output:
+2014-06-27 02:13:38 [21403] [INFO] Booting worker with pid: 21403
+
+2014-06-27 02:13:39,360 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 02:13:42,384 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 02:36:34,397 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 02:36:37,732 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 02:37:13,038 DEBG 'myserver' stderr output:
+2014-06-27 02:37:08 [20813] [CRITICAL] WORKER TIMEOUT (pid:21389)
+2014-06-27 02:37:13 [21421] [INFO] Booting worker with pid: 21421
+
+2014-06-27 03:12:02,263 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 03:12:05,235 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 03:12:08,711 DEBG 'myserver' stderr output:
+2014-06-27 03:12:08 [21435] [INFO] Booting worker with pid: 21435
+
+2014-06-27 03:15:18,335 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 03:58:06,052 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 03:58:07,763 DEBG 'myserver' stderr output:
+2014-06-27 03:58:07 [21381] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 248, in solar
+    age = float(request.form['age'])
+ValueError: could not convert string to float: 
+
+2014-06-27 03:58:16,197 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 03:58:42,969 DEBG 'myserver' stderr output:
+2014-06-27 03:58:42 [21463] [INFO] Booting worker with pid: 21463
+
+2014-06-27 03:58:43,410 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 06:49:10,329 DEBG 'myserver' stderr output:
+2014-06-27 06:49:10 [21647] [INFO] Booting worker with pid: 21647
+
+2014-06-27 18:34:02,729 DEBG 'myserver' stderr output:
+2014-06-27 18:34:02 [21463] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,168
+
+2014-06-27 18:34:31,940 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:34:34,779 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:34:45,457 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:34:48,089 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:36:06,037 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:36:08,397 DEBG 'myserver' stderr output:
+2014-06-27 18:36:08 [22129] [INFO] Booting worker with pid: 22129
+
+2014-06-27 18:36:24,302 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:36:27,233 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:36:42,539 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:36:48,738 DEBG 'myserver' stderr output:
+2014-06-27 18:36:48 [22132] [INFO] Booting worker with pid: 22132
+
+2014-06-27 18:36:55,805 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-27 18:36:58,604 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-28 06:44:58,386 DEBG 'myserver' stderr output:
+2014-06-28 06:44:58 [22670] [INFO] Booting worker with pid: 22670
+
+2014-06-28 18:56:35,002 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-28 18:56:38,161 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-29 02:22:22,861 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-29 02:22:22,874 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-29 02:22:28,112 DEBG 'myserver' stderr output:
+2014-06-29 02:22:28 [23356] [INFO] Booting worker with pid: 23356
+
+2014-06-29 02:22:34,036 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-29 06:47:10,381 DEBG 'myserver' stderr output:
+2014-06-29 06:47:10 [23599] [INFO] Booting worker with pid: 23599
+
+2014-06-30 16:18:06,039 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 16:18:09,129 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 16:30:55,178 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 18:35:11,984 WARN received SIGTERM indicating exit request
+2014-06-30 18:35:12,001 DEBG killing myserver (pid 20813) with signal SIGTERM
+2014-06-30 18:35:12,006 INFO waiting for myserver to die
+2014-06-30 18:35:12,015 DEBG 'myserver' stderr output:
+2014-06-30 18:35:12 [20813] [INFO] Handling signal: term
+2014-06-30 18:35:12 [22670] [INFO] Worker exiting (pid: 22670)
+
+2014-06-30 18:35:12,016 DEBG 'myserver' stderr output:
+2014-06-30 18:35:12 [23599] [INFO] Worker exiting (pid: 23599)
+2014-06-30 18:35:12 [22132] [INFO] Worker exiting (pid: 22132)
+2014-06-30 18:35:12 [23356] [INFO] Worker exiting (pid: 23356)
+
+2014-06-30 18:35:12,359 DEBG 'myserver' stderr output:
+Exception 
+2014-06-30 18:35:12,369 DEBG 'myserver' stderr output:
+KeyError
+2014-06-30 18:35:12,369 DEBG 'myserver' stderr output:
+: 
+2014-06-30 18:35:12,369 DEBG 'myserver' stderr output:
+KeyError(140082705172288,)
+2014-06-30 18:35:12,369 DEBG 'myserver' stderr output:
+ in 
+2014-06-30 18:35:12,370 DEBG 'myserver' stderr output:
+<module 'threading' from '/usr/lib/python2.7/threading.pyc'>
+2014-06-30 18:35:12,370 DEBG 'myserver' stderr output:
+ ignored
+
+2014-06-30 18:35:12,376 DEBG 'myserver' stderr output:
+Exception 
+2014-06-30 18:35:12,381 DEBG 'myserver' stderr output:
+Exception 
+2014-06-30 18:35:12,381 DEBG 'myserver' stderr output:
+KeyError
+2014-06-30 18:35:12,381 DEBG 'myserver' stderr output:
+KeyError
+2014-06-30 18:35:12,382 DEBG 'myserver' stderr output:
+: 
+2014-06-30 18:35:12,382 DEBG 'myserver' stderr output:
+: 
+2014-06-30 18:35:12,382 DEBG 'myserver' stderr output:
+KeyError(140082705172288,)
+2014-06-30 18:35:12,382 DEBG 'myserver' stderr output:
+KeyError(140082705172288,)
+2014-06-30 18:35:12,385 DEBG 'myserver' stderr output:
+ in 
+2014-06-30 18:35:12,385 DEBG 'myserver' stderr output:
+ in 
+2014-06-30 18:35:12,385 DEBG 'myserver' stderr output:
+<module 'threading' from '/usr/lib/python2.7/threading.pyc'>
+2014-06-30 18:35:12,385 DEBG 'myserver' stderr output:
+<module 'threading' from '/usr/lib/python2.7/threading.pyc'>
+2014-06-30 18:35:12,389 DEBG 'myserver' stderr output:
+ ignored
+
+2014-06-30 18:35:12,393 DEBG 'myserver' stderr output:
+ ignored
+
+2014-06-30 18:35:12,395 DEBG 'myserver' stderr output:
+Exception 
+2014-06-30 18:35:12,409 DEBG 'myserver' stderr output:
+KeyError
+2014-06-30 18:35:12,409 DEBG 'myserver' stderr output:
+: 
+2014-06-30 18:35:12,409 DEBG 'myserver' stderr output:
+ in 
+2014-06-30 18:35:12,410 DEBG 'myserver' stderr output:
+<module 'threading' from '/usr/lib/python2.7/threading.pyc'>
+2014-06-30 18:35:12,410 DEBG 'myserver' stderr output:
+ ignored
+
+2014-06-30 18:35:12,505 DEBG 'myserver' stderr output:
+2014-06-30 18:35:12 [20813] [INFO] Shutting down: Master
+
+2014-06-30 18:35:12,558 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140159823630280 for <Subprocess at 140159823630136 with name myserver in state STOPPING> (stdout)>
+2014-06-30 18:35:12,559 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140159814549872 for <Subprocess at 140159823630136 with name myserver in state STOPPING> (stderr)>
+2014-06-30 18:35:12,559 INFO stopped: myserver (exit status 0)
+2014-06-30 18:35:12,559 DEBG received SIGCLD indicating a child quit
+2014-06-30 18:35:20,982 CRIT Set uid to user 0
+2014-06-30 18:35:21,010 INFO daemonizing the supervisord process
+2014-06-30 18:35:21,011 INFO supervisord started with pid 26776
+2014-06-30 18:35:22,019 INFO spawned: 'myserver' with pid 26777
+2014-06-30 18:35:22,358 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26777] [INFO] Starting gunicorn 18.0
+
+2014-06-30 18:35:22,359 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26777] [INFO] Listening at: http://0.0.0.0:5000 (26777)
+
+2014-06-30 18:35:22,359 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26777] [INFO] Using worker: sync
+
+2014-06-30 18:35:22,367 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26782] [INFO] Booting worker with pid: 26782
+
+2014-06-30 18:35:22,387 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26783] [INFO] Booting worker with pid: 26783
+
+2014-06-30 18:35:22,399 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26784] [INFO] Booting worker with pid: 26784
+
+2014-06-30 18:35:22,454 DEBG 'myserver' stderr output:
+2014-06-30 18:35:22 [26785] [INFO] Booting worker with pid: 26785
+
+2014-06-30 18:35:23,455 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-06-30 18:46:23,873 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 21:23:25,832 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 21:23:28,374 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 21:26:01,070 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 21:26:03,639 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 21:42:23,432 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-06-30 21:42:55,205 DEBG 'myserver' stderr output:
+2014-06-30 21:42:53 [26777] [CRITICAL] WORKER TIMEOUT (pid:26785)
+
+2014-06-30 21:42:55,285 DEBG 'myserver' stderr output:
+2014-06-30 21:42:55 [26995] [INFO] Booting worker with pid: 26995
+
+2014-07-03 03:53:41,536 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-03 03:54:07,758 DEBG 'myserver' stderr output:
+2014-07-03 03:54:07 [31402] [INFO] Booting worker with pid: 31402
+
+2014-07-03 03:54:07,825 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-03 03:54:57,214 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-03 03:55:00,301 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-03 07:17:10,222 DEBG 'myserver' stderr output:
+2014-07-03 07:17:10 [31716] [INFO] Booting worker with pid: 31716
+
+2014-07-03 07:54:41,047 DEBG 'myserver' stderr output:
+2014-07-03 07:54:41 [26784] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 243, in solar
+    rate = float(getRate(zip_code)) / 1000
+  File "/home/ubuntu/movies2books/app/views.py", line 73, in getRate
+    return(row['resrate'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+2014-07-05 08:38:41,029 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-05 08:38:44,450 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-06 06:47:21,554 DEBG 'myserver' stderr output:
+2014-07-06 06:47:21 [11115] [INFO] Booting worker with pid: 11115
+
+2014-07-07 04:19:55,556 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 04:19:58,824 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 04:20:59,727 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 04:21:02,450 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 06:48:10,065 DEBG 'myserver' stderr output:
+2014-07-07 06:48:10 [12781] [INFO] Booting worker with pid: 12781
+
+2014-07-07 13:21:25,486 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 13:21:27,325 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 13:24:46,216 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 14:18:32,796 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 14:18:35,076 DEBG 'myserver' stderr output:
+2014-07-07 14:18:35 [14534] [INFO] Booting worker with pid: 14534
+
+2014-07-07 14:18:38,239 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:29:52,784 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:29:55,330 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:30:39,645 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:31:16,573 DEBG 'myserver' stderr output:
+2014-07-07 17:31:10 [26777] [CRITICAL] WORKER TIMEOUT (pid:14534)
+
+2014-07-07 17:31:16,586 DEBG 'myserver' stderr output:
+2014-07-07 17:31:16 [26777] [CRITICAL] WORKER TIMEOUT (pid:31716)
+
+2014-07-07 17:31:16,602 DEBG 'myserver' stderr output:
+2014-07-07 17:31:16 [14624] [INFO] Booting worker with pid: 14624
+
+2014-07-07 17:31:16,650 DEBG 'myserver' stderr output:
+2014-07-07 17:31:16 [14625] [INFO] Booting worker with pid: 14625
+
+2014-07-07 17:33:01,116 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:33:03,733 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:37:10,490 DEBG 'myserver' stderr output:
+2014-07-07 17:37:10 [14630] [INFO] Booting worker with pid: 14630
+
+2014-07-07 17:37:10,702 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:37:12,617 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:37:15,293 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:37:29,676 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 17:37:30,114 DEBG 'myserver' stderr output:
+2014-07-07 17:37:30 [14633] [INFO] Booting worker with pid: 14633
+
+2014-07-07 20:37:43,883 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 20:37:47,395 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-07 20:37:53,137 DEBG 'myserver' stderr output:
+2014-07-07 20:37:53 [14787] [INFO] Booting worker with pid: 14787
+
+2014-07-08 06:31:11,260 DEBG 'myserver' stderr output:
+2014-07-08 06:31:11 [25128] [INFO] Booting worker with pid: 25128
+
+2014-07-09 17:04:20,840 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:04:23,974 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:05:42,624 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:05:44,781 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:06:40,020 DEBG 'myserver' stderr output:
+2014-07-09 17:06:19 [26777] [CRITICAL] WORKER TIMEOUT (pid:14625)
+
+2014-07-09 17:06:40,073 DEBG 'myserver' stderr output:
+2014-07-09 17:06:40 [26648] [INFO] Booting worker with pid: 26648
+
+2014-07-09 17:07:51,223 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:07:53,905 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:08:07,582 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 17:08:18,786 DEBG 'myserver' stderr output:
+2014-07-09 17:08:18 [26652] [INFO] Booting worker with pid: 26652
+
+2014-07-09 17:08:19,362 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 21:26:37,740 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-09 21:27:01,523 DEBG 'myserver' stderr output:
+2014-07-09 21:27:01 [26811] [INFO] Booting worker with pid: 26811
+
+2014-07-09 21:27:01,790 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-10 06:45:11,945 DEBG 'myserver' stderr output:
+2014-07-10 06:45:11 [27331] [INFO] Booting worker with pid: 27331
+
+2014-07-10 23:59:09,606 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-10 23:59:12,919 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-10 23:59:56,915 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 00:00:03,836 DEBG 'myserver' stderr output:
+2014-07-11 00:00:03 [29482] [INFO] Booting worker with pid: 29482
+
+2014-07-11 00:00:04,920 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 00:00:07,807 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 06:51:55,065 DEBG 'myserver' stderr output:
+2014-07-11 06:51:55 [31080] [INFO] Booting worker with pid: 31080
+
+2014-07-11 20:28:49,062 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:28:49,873 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:28:50,946 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:28:52,067 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:29:08,753 DEBG 'myserver' stderr output:
+2014-07-11 20:29:08 [32243] [INFO] Booting worker with pid: 32243
+
+2014-07-11 20:29:10,993 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:29:29,518 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:29:53,355 DEBG 'myserver' stderr output:
+2014-07-11 20:29:53 [32246] [INFO] Booting worker with pid: 32246
+
+2014-07-11 20:29:54,011 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:30:51,094 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:30:53,543 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:10,702 DEBG 'myserver' stderr output:
+2014-07-11 20:32:08 [26777] [CRITICAL] WORKER TIMEOUT (pid:32246)
+
+2014-07-11 20:32:10,737 DEBG 'myserver' stderr output:
+2014-07-11 20:32:10 [32249] [INFO] Booting worker with pid: 32249
+
+2014-07-11 20:32:11,008 DEBG 'myserver' stderr output:
+2014-07-11 20:32:10 [29482] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 246, in solar
+    area = getArea(address)
+  File "/home/ubuntu/movies2books/app/views.py", line 103, in getArea
+    results = Geocoder.geocode(address)
+  File "/usr/local/lib/python2.7/dist-packages/pygeocoder.py", line 129, in geocode
+    return GeocoderResult(Geocoder.get_data(params=params))
+  File "/usr/local/lib/python2.7/dist-packages/pygeocoder.py", line 204, in get_data
+    response = session.send(request.prepare())
+  File "/usr/lib/python2.7/dist-packages/requests/sessions.py", line 486, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/requests/adapters.py", line 385, in send
+    raise SSLError(e)
+SSLError: [Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+
+2014-07-11 20:32:12,544 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:28,826 DEBG 'myserver' stderr output:
+2014-07-11 20:32:27 [26777] [CRITICAL] WORKER TIMEOUT (pid:32243)
+
+2014-07-11 20:32:28,833 DEBG 'myserver' stderr output:
+2014-07-11 20:32:28 [26777] [CRITICAL] WORKER TIMEOUT (pid:32243)
+
+2014-07-11 20:32:28,848 DEBG 'myserver' stderr output:
+2014-07-11 20:32:28 [32252] [INFO] Booting worker with pid: 32252
+
+2014-07-11 20:32:32,156 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:32,159 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:35,262 DEBG 'myserver' stderr output:
+2014-07-11 20:32:35 [31080] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 248, in solar
+    age = float(request.form['age'])
+ValueError: could not convert string to float: 
+
+2014-07-11 20:32:36,305 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:51,250 DEBG 'myserver' stderr output:
+2014-07-11 20:32:51 [32255] [INFO] Booting worker with pid: 32255
+
+2014-07-11 20:32:53,398 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:54,001 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:32:57,147 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:33:46,607 DEBG 'myserver' stderr output:
+2014-07-11 20:33:35 [26777] [CRITICAL] WORKER TIMEOUT (pid:31080)
+
+2014-07-11 20:33:46,618 DEBG 'myserver' stderr output:
+2014-07-11 20:33:46 [26777] [CRITICAL] WORKER TIMEOUT (pid:32249)
+2014-07-11 20:33:46 [26777] [CRITICAL] WORKER TIMEOUT (pid:32255)
+2014-07-11 20:33:46 [26777] [CRITICAL] WORKER TIMEOUT (pid:32249)
+2014-07-11 20:33:46 [26777] [CRITICAL] WORKER TIMEOUT (pid:32255)
+
+2014-07-11 20:33:46,627 DEBG 'myserver' stderr output:
+2014-07-11 20:33:46 [32258] [INFO] Booting worker with pid: 32258
+
+2014-07-11 20:33:46,638 DEBG 'myserver' stderr output:
+2014-07-11 20:33:46 [26777] [CRITICAL] WORKER TIMEOUT (pid:32255)
+
+2014-07-11 20:33:46,674 DEBG 'myserver' stderr output:
+2014-07-11 20:33:46 [32259] [INFO] Booting worker with pid: 32259
+
+2014-07-11 20:33:46,692 DEBG 'myserver' stderr output:
+2014-07-11 20:33:46 [32260] [INFO] Booting worker with pid: 32260
+
+2014-07-11 20:34:36,684 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:34:38,815 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-11 20:36:19,371 DEBG 'myserver' stderr output:
+2014-07-11 20:36:19 [32258] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-11 20:36:27,870 DEBG 'myserver' stderr output:
+2014-07-11 20:36:27 [32260] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-11 20:37:31,102 DEBG 'myserver' stderr output:
+2014-07-11 20:37:31 [32260] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-11 20:40:47,670 DEBG 'myserver' stderr output:
+2014-07-11 20:40:47 [32259] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-11 20:40:57,018 DEBG 'myserver' stderr output:
+2014-07-11 20:40:57 [32259] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-11 22:00:55,014 DEBG 'myserver' stderr output:
+2014-07-11 22:00:55 [32260] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-12 03:14:00,964 DEBG 'myserver' stderr output:
+2014-07-12 03:14:00 [32260] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 244, in solar
+    usage = float(getUsage(zip_code))
+ValueError: invalid literal for float(): 1,081
+
+2014-07-12 03:14:14,643 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-12 03:14:17,319 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-12 06:49:19,482 DEBG 'myserver' stderr output:
+2014-07-12 06:49:19 [32692] [INFO] Booting worker with pid: 32692
+
+2014-07-14 21:06:37,474 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-14 21:06:40,480 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-14 23:38:08,090 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-14 23:38:33,411 DEBG 'myserver' stderr output:
+2014-07-14 23:38:33 [10357] [INFO] Booting worker with pid: 10357
+
+2014-07-14 23:38:33,960 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-15 06:43:48,113 DEBG 'myserver' stderr output:
+2014-07-15 06:43:48 [11235] [INFO] Booting worker with pid: 11235
+
+2014-07-16 17:07:08,739 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-16 17:07:11,238 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 06:49:11,672 DEBG 'myserver' stderr output:
+2014-07-17 06:49:11 [22123] [INFO] Booting worker with pid: 22123
+
+2014-07-17 17:49:42,838 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 17:49:45,744 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 17:50:56,143 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 17:50:56,985 DEBG 'myserver' stderr output:
+2014-07-17 17:50:56 [22821] [INFO] Booting worker with pid: 22821
+
+2014-07-17 17:50:59,611 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 20:34:29,673 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 20:34:32,246 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 20:34:45,715 DEBG 'myserver' stderr output:
+2014-07-17 20:34:45 [22978] [INFO] Booting worker with pid: 22978
+
+2014-07-17 20:35:05,228 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 20:35:07,824 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 23:26:52,760 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 23:26:55,875 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-17 23:27:00,612 DEBG 'myserver' stderr output:
+2014-07-17 23:27:00 [23332] [INFO] Booting worker with pid: 23332
+
+2014-07-18 06:54:21,775 DEBG 'myserver' stderr output:
+2014-07-18 06:54:21 [24501] [INFO] Booting worker with pid: 24501
+
+2014-07-22 03:55:12,501 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-22 03:55:14,968 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-22 06:48:31,818 DEBG 'myserver' stderr output:
+2014-07-22 06:48:31 [6563] [INFO] Booting worker with pid: 6563
+
+2014-07-25 18:02:22,240 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-25 18:02:25,425 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-07-26 06:31:38,446 DEBG 'myserver' stderr output:
+2014-07-26 06:31:38 [11811] [INFO] Booting worker with pid: 11811
+
+2014-08-14 18:34:17,011 DEBG 'myserver' stderr output:
+2014-08-14 18:34:16 [23332] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 243, in solar
+    rate = float(getRate(zip_code)) / 1000
+  File "/home/ubuntu/movies2books/app/views.py", line 73, in getRate
+    return(row['resrate'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+2014-08-14 18:34:37,279 DEBG 'myserver' stderr output:
+2014-08-14 18:34:37 [22978] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/movies2books/app/views.py", line 243, in solar
+    rate = float(getRate(zip_code)) / 1000
+  File "/home/ubuntu/movies2books/app/views.py", line 73, in getRate
+    return(row['resrate'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+2014-08-20 17:49:26,378 WARN received SIGTERM indicating exit request
+2014-08-20 17:49:26,402 DEBG killing myserver (pid 26777) with signal SIGTERM
+2014-08-20 17:49:26,402 INFO waiting for myserver to die
+2014-08-20 17:49:26,426 DEBG 'myserver' stderr output:
+2014-08-20 17:49:26 [23332] [INFO] Worker exiting (pid: 23332)
+2014-08-20 17:49:26 [6563] [INFO] Worker exiting (pid: 6563)
+2014-08-20 17:49:26 [11811] [INFO] Worker exiting (pid: 11811)
+2014-08-20 17:49:26 [22978] [INFO] Worker exiting (pid: 22978)
+
+2014-08-20 17:49:26,426 DEBG received SIGCLD indicating a child quit
+2014-08-20 17:49:26,426 DEBG 'myserver' stderr output:
+2014-08-20 17:49:26 [26777] [INFO] Handling signal: term
+
+2014-08-20 17:49:26,492 DEBG received SIGCLD indicating a child quit
+2014-08-20 17:49:26,784 DEBG 'myserver' stderr output:
+Exception 
+2014-08-20 17:49:26,794 DEBG 'myserver' stderr output:
+Exception 
+2014-08-20 17:49:26,794 DEBG 'myserver' stderr output:
+KeyError
+2014-08-20 17:49:26,794 DEBG 'myserver' stderr output:
+: 
+2014-08-20 17:49:26,794 DEBG 'myserver' stderr output:
+KeyError(140488900884288,)
+2014-08-20 17:49:26,795 DEBG 'myserver' stderr output:
+ in 
+2014-08-20 17:49:26,795 DEBG 'myserver' stderr output:
+<module 'threading' from '/usr/lib/python2.7/threading.pyc'>
+2014-08-20 17:49:26,795 DEBG 'myserver' stderr output:
+ ignored
+
+2014-08-20 17:49:26,796 DEBG 'myserver' stderr output:
+KeyError
+2014-08-20 17:49:26,796 DEBG 'myserver' stderr output:
+: 
+2014-08-20 17:49:26,796 DEBG 'myserver' stderr output:
+KeyError(140488900884288,)
+2014-08-20 17:49:26,797 DEBG 'myserver' stderr output:
+ in 
+2014-08-20 17:49:26,801 DEBG 'myserver' stderr output:
+<module 'threading' from '/usr/lib/python2.7/threading.pyc'> ignored
+
+2014-08-20 17:49:26,826 DEBG 'myserver' stderr output:
+Exception 
+2014-08-20 17:49:26,829 DEBG 'myserver' stderr output:
+Exception KeyError: KeyError(140488900884288,) in <module 'threading' from '/usr/lib/python2.7/threading.pyc'> ignored
+
+2014-08-20 17:49:26,833 DEBG 'myserver' stderr output:
+KeyError: KeyError(140488900884288,) in <module 'threading' from '/usr/lib/python2.7/threading.pyc'> ignored
+
+2014-08-20 17:49:26,905 DEBG 'myserver' stderr output:
+2014-08-20 17:49:26 [26777] [INFO] Shutting down: Master
+
+2014-08-20 17:49:26,920 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140480372649928 for <Subprocess at 140480372649784 with name myserver in state STOPPING> (stdout)>
+2014-08-20 17:49:26,921 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140480363569520 for <Subprocess at 140480372649784 with name myserver in state STOPPING> (stderr)>
+2014-08-20 17:49:26,921 INFO stopped: myserver (exit status 0)
+2014-08-20 17:49:26,921 DEBG received SIGCLD indicating a child quit
+2014-08-22 19:52:43,281 CRIT Set uid to user 0
+2014-08-22 19:52:43,315 INFO daemonizing the supervisord process
+2014-08-22 19:52:43,317 INFO supervisord started with pid 18268
+2014-08-22 19:52:44,327 INFO spawned: 'myserver' with pid 18269
+2014-08-22 19:52:44,513 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18269] [INFO] Starting gunicorn 18.0
+
+2014-08-22 19:52:44,515 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18269] [INFO] Listening at: http://0.0.0.0:5000 (18269)
+
+2014-08-22 19:52:44,515 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18269] [INFO] Using worker: sync
+
+2014-08-22 19:52:44,525 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18274] [INFO] Booting worker with pid: 18274
+
+2014-08-22 19:52:44,547 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18275] [INFO] Booting worker with pid: 18275
+
+2014-08-22 19:52:44,623 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18276] [INFO] Booting worker with pid: 18276
+
+2014-08-22 19:52:44,705 DEBG 'myserver' stderr output:
+2014-08-22 19:52:44 [18277] [INFO] Booting worker with pid: 18277
+
+2014-08-22 19:52:45,706 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-08-22 19:53:14,777 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18274)
+
+2014-08-22 19:53:14,782 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18275)
+
+2014-08-22 19:53:14,796 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18276)
+
+2014-08-22 19:53:14,807 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18277)
+
+2014-08-22 19:53:14,819 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18274)
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18275)
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18276)
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18277)
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18274)
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18275)
+
+2014-08-22 19:53:14,819 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18269] [CRITICAL] WORKER TIMEOUT (pid:18276)
+
+2014-08-22 19:53:14,830 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18294] [INFO] Booting worker with pid: 18294
+
+2014-08-22 19:53:14,846 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18295] [INFO] Booting worker with pid: 18295
+
+2014-08-22 19:53:14,926 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18296] [INFO] Booting worker with pid: 18296
+
+2014-08-22 19:53:14,970 DEBG 'myserver' stderr output:
+2014-08-22 19:53:14 [18297] [INFO] Booting worker with pid: 18297
+
+2014-08-22 19:53:45,070 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18294)
+
+2014-08-22 19:53:45,077 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18295)
+
+2014-08-22 19:53:45,089 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18296)
+
+2014-08-22 19:53:45,095 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18297)
+
+2014-08-22 19:53:45,107 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18294)
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18295)
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18296)
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18297)
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18294)
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18295)
+2014-08-22 19:53:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18296)
+
+2014-08-22 19:53:45,113 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18309] [INFO] Booting worker with pid: 18309
+
+2014-08-22 19:53:45,126 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18310] [INFO] Booting worker with pid: 18310
+
+2014-08-22 19:53:45,214 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18311] [INFO] Booting worker with pid: 18311
+
+2014-08-22 19:53:45,314 DEBG 'myserver' stderr output:
+2014-08-22 19:53:45 [18312] [INFO] Booting worker with pid: 18312
+
+2014-08-22 19:54:15,400 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18309)
+
+2014-08-22 19:54:15,407 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18310)
+
+2014-08-22 19:54:15,411 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18311)
+
+2014-08-22 19:54:15,417 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18312)
+
+2014-08-22 19:54:15,435 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18309)
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18310)
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18311)
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18312)
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18309)
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18310)
+2014-08-22 19:54:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18312)
+
+2014-08-22 19:54:15,448 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18326] [INFO] Booting worker with pid: 18326
+
+2014-08-22 19:54:15,506 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18327] [INFO] Booting worker with pid: 18327
+
+2014-08-22 19:54:15,576 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18328] [INFO] Booting worker with pid: 18328
+
+2014-08-22 19:54:15,614 DEBG 'myserver' stderr output:
+2014-08-22 19:54:15 [18331] [INFO] Booting worker with pid: 18331
+
+2014-08-22 19:54:45,691 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18326)
+
+2014-08-22 19:54:45,695 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18327)
+
+2014-08-22 19:54:45,699 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18328)
+
+2014-08-22 19:54:45,705 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18331)
+
+2014-08-22 19:54:45,723 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18326)
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18327)
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18328)
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18331)
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18326)
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18327)
+2014-08-22 19:54:45 [18269] [CRITICAL] WORKER TIMEOUT (pid:18328)
+
+2014-08-22 19:54:45,737 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18343] [INFO] Booting worker with pid: 18343
+
+2014-08-22 19:54:45,763 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18344] [INFO] Booting worker with pid: 18344
+
+2014-08-22 19:54:45,871 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18345] [INFO] Booting worker with pid: 18345
+
+2014-08-22 19:54:45,947 DEBG 'myserver' stderr output:
+2014-08-22 19:54:45 [18348] [INFO] Booting worker with pid: 18348
+
+2014-08-22 19:55:15,993 DEBG 'myserver' stderr output:
+2014-08-22 19:55:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18344)
+
+2014-08-22 19:55:15,999 DEBG 'myserver' stderr output:
+2014-08-22 19:55:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18345)
+
+2014-08-22 19:55:16,003 DEBG 'myserver' stderr output:
+2014-08-22 19:55:15 [18269] [CRITICAL] WORKER TIMEOUT (pid:18343)
+
+2014-08-22 19:55:16,009 DEBG 'myserver' stderr output:
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18348)
+
+2014-08-22 19:55:16,023 DEBG 'myserver' stderr output:
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18344)
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18345)
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18343)
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18348)
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18344)
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18345)
+2014-08-22 19:55:16 [18269] [CRITICAL] WORKER TIMEOUT (pid:18348)
+
+2014-08-22 19:55:16,030 DEBG 'myserver' stderr output:
+2014-08-22 19:55:16 [18358] [INFO] Booting worker with pid: 18358
+
+2014-08-22 19:55:16,046 DEBG 'myserver' stderr output:
+2014-08-22 19:55:16 [18359] [INFO] Booting worker with pid: 18359
+
+2014-08-22 19:55:16,098 DEBG 'myserver' stderr output:
+2014-08-22 19:55:16 [18360] [INFO] Booting worker with pid: 18360
+
+2014-08-22 19:55:16,146 DEBG 'myserver' stderr output:
+2014-08-22 19:55:16 [18361] [INFO] Booting worker with pid: 18361
+
+2014-08-22 19:55:32,974 WARN received SIGTERM indicating exit request
+2014-08-22 19:55:32,974 DEBG killing myserver (pid 18269) with signal SIGTERM
+2014-08-22 19:55:32,974 INFO waiting for myserver to die
+2014-08-22 19:55:32,977 DEBG 'myserver' stderr output:
+2014-08-22 19:55:32 [18269] [INFO] Handling signal: term
+2014-08-22 19:55:32 [18358] [INFO] Worker exiting (pid: 18358)
+
+2014-08-22 19:55:32,983 DEBG 'myserver' stderr output:
+2014-08-22 19:55:32 [18359] [INFO] Worker exiting (pid: 18359)
+2014-08-22 19:55:32 [18360] [INFO] Worker exiting (pid: 18360)
+2014-08-22 19:55:32 [18361] [INFO] Worker exiting (pid: 18361)
+
+2014-08-22 19:55:33,118 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:55:33,121 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:55:33,124 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:55:33,125 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:55:33,126 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:55:33,126 DEBG 'myserver' stderr output:
+: 
+2014-08-22 19:55:33,126 DEBG 'myserver' stderr output:
+0
+2014-08-22 19:55:33,126 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:55:33,127 DEBG 'myserver' stderr output:
+ in 
+2014-08-22 19:55:33,127 DEBG 'myserver' stderr output:
+: 
+2014-08-22 19:55:33,127 DEBG 'myserver' stderr output:
+<function _collection_gced at 0x7f2e495377d0>
+2014-08-22 19:55:33,127 DEBG 'myserver' stderr output:
+0
+2014-08-22 19:55:33,127 DEBG 'myserver' stderr output:
+ ignored
+
+2014-08-22 19:55:33,128 DEBG 'myserver' stderr output:
+ in 
+2014-08-22 19:55:33,135 DEBG 'myserver' stderr output:
+<function _collection_gced at 0x7f2e495377d0> ignored
+
+2014-08-22 19:55:33,139 DEBG 'myserver' stderr output:
+SystemExit: 0 in <function _collection_gced at 0x7f2e495377d0> ignored
+
+2014-08-22 19:55:33,139 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:55:33,139 DEBG 'myserver' stderr output:
+: 
+2014-08-22 19:55:33,140 DEBG 'myserver' stderr output:
+0
+2014-08-22 19:55:33,143 DEBG 'myserver' stderr output:
+ in <function _collection_gced at 0x7f2e495377d0> ignored
+
+2014-08-22 19:55:33,219 DEBG 'myserver' stderr output:
+2014-08-22 19:55:33 [18269] [INFO] Shutting down: Master
+
+2014-08-22 19:55:33,232 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139891404804040 for <Subprocess at 139891404803896 with name myserver in state STOPPING> (stdout)>
+2014-08-22 19:55:33,232 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139891395723632 for <Subprocess at 139891404803896 with name myserver in state STOPPING> (stderr)>
+2014-08-22 19:55:33,232 INFO stopped: myserver (exit status 0)
+2014-08-22 19:55:33,232 DEBG received SIGCLD indicating a child quit
+2014-08-22 19:55:53,334 CRIT Set uid to user 0
+2014-08-22 19:55:53,350 INFO supervisord started with pid 18381
+2014-08-22 19:55:54,357 INFO spawned: 'myserver' with pid 18384
+2014-08-22 19:55:54,562 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18384] [INFO] Starting gunicorn 18.0
+
+2014-08-22 19:55:54,564 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18384] [INFO] Listening at: http://0.0.0.0:5000 (18384)
+
+2014-08-22 19:55:54,565 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18384] [INFO] Using worker: sync
+
+2014-08-22 19:55:54,573 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18389] [INFO] Booting worker with pid: 18389
+
+2014-08-22 19:55:54,622 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18390] [INFO] Booting worker with pid: 18390
+
+2014-08-22 19:55:54,638 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18391] [INFO] Booting worker with pid: 18391
+
+2014-08-22 19:55:54,710 DEBG 'myserver' stderr output:
+2014-08-22 19:55:54 [18392] [INFO] Booting worker with pid: 18392
+
+2014-08-22 19:55:55,712 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-08-22 19:56:24,773 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18392)
+
+2014-08-22 19:56:24,785 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18389)
+
+2014-08-22 19:56:24,791 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18390)
+
+2014-08-22 19:56:24,795 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18391)
+
+2014-08-22 19:56:24,807 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18392)
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18389)
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18390)
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18391)
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18392)
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18390)
+2014-08-22 19:56:24 [18384] [CRITICAL] WORKER TIMEOUT (pid:18391)
+
+2014-08-22 19:56:24,820 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18467] [INFO] Booting worker with pid: 18467
+
+2014-08-22 19:56:24,850 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18468] [INFO] Booting worker with pid: 18468
+
+2014-08-22 19:56:24,928 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18469] [INFO] Booting worker with pid: 18469
+
+2014-08-22 19:56:24,991 DEBG 'myserver' stderr output:
+2014-08-22 19:56:24 [18470] [INFO] Booting worker with pid: 18470
+
+2014-08-22 19:56:55,071 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18467)
+
+2014-08-22 19:56:55,075 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18468)
+
+2014-08-22 19:56:55,084 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18469)
+
+2014-08-22 19:56:55,091 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18470)
+
+2014-08-22 19:56:55,103 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18467)
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18468)
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18469)
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18470)
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18467)
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18468)
+2014-08-22 19:56:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18469)
+
+2014-08-22 19:56:55,114 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18491] [INFO] Booting worker with pid: 18491
+
+2014-08-22 19:56:55,238 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18494] [INFO] Booting worker with pid: 18494
+
+2014-08-22 19:56:55,248 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18495] [INFO] Booting worker with pid: 18495
+
+2014-08-22 19:56:55,342 DEBG 'myserver' stderr output:
+2014-08-22 19:56:55 [18496] [INFO] Booting worker with pid: 18496
+
+2014-08-22 19:57:25,429 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18496)
+
+2014-08-22 19:57:25,435 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18491)
+
+2014-08-22 19:57:25,439 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18494)
+
+2014-08-22 19:57:25,443 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18495)
+
+2014-08-22 19:57:25,463 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18496)
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18491)
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18494)
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18495)
+
+2014-08-22 19:57:25,467 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18496)
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18491)
+2014-08-22 19:57:25 [18384] [CRITICAL] WORKER TIMEOUT (pid:18494)
+
+2014-08-22 19:57:25,477 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18516] [INFO] Booting worker with pid: 18516
+
+2014-08-22 19:57:25,562 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18517] [INFO] Booting worker with pid: 18517
+
+2014-08-22 19:57:25,602 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18520] [INFO] Booting worker with pid: 18520
+
+2014-08-22 19:57:25,630 DEBG 'myserver' stderr output:
+2014-08-22 19:57:25 [18521] [INFO] Booting worker with pid: 18521
+
+2014-08-22 19:57:55,735 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18516)
+
+2014-08-22 19:57:55,739 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18517)
+
+2014-08-22 19:57:55,743 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18520)
+
+2014-08-22 19:57:55,752 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18521)
+
+2014-08-22 19:57:55,767 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18516)
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18517)
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18520)
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18521)
+
+2014-08-22 19:57:55,771 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18516)
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18520)
+2014-08-22 19:57:55 [18384] [CRITICAL] WORKER TIMEOUT (pid:18521)
+
+2014-08-22 19:57:55,784 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18539] [INFO] Booting worker with pid: 18539
+
+2014-08-22 19:57:55,802 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18540] [INFO] Booting worker with pid: 18540
+
+2014-08-22 19:57:55,846 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18541] [INFO] Booting worker with pid: 18541
+
+2014-08-22 19:57:55,882 DEBG 'myserver' stderr output:
+2014-08-22 19:57:55 [18542] [INFO] Booting worker with pid: 18542
+
+2014-08-22 19:58:05,546 WARN received SIGINT indicating exit request
+2014-08-22 19:58:05,547 DEBG killing myserver (pid 18384) with signal SIGTERM
+2014-08-22 19:58:05,547 INFO waiting for myserver to die
+2014-08-22 19:58:05,555 DEBG 'myserver' stderr output:
+2014-08-22 19:58:05 [18384] [INFO] Handling signal: term
+2014-08-22 19:58:05 [18539] [INFO] Worker exiting (pid: 18539)
+
+2014-08-22 19:58:05,563 DEBG 'myserver' stderr output:
+2014-08-22 19:58:05 [18540] [INFO] Worker exiting (pid: 18540)
+2014-08-22 19:58:05 [18541] [INFO] Worker exiting (pid: 18541)
+
+2014-08-22 19:58:05,568 DEBG 'myserver' stderr output:
+2014-08-22 19:58:05 [18542] [INFO] Worker exiting (pid: 18542)
+
+2014-08-22 19:58:05,687 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:58:05,689 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:58:05,690 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:58:05,694 DEBG 'myserver' stderr output:
+Exception 
+2014-08-22 19:58:05,695 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:58:05,695 DEBG 'myserver' stderr output:
+: 
+2014-08-22 19:58:05,695 DEBG 'myserver' stderr output:
+0
+2014-08-22 19:58:05,696 DEBG 'myserver' stderr output:
+ in 
+2014-08-22 19:58:05,696 DEBG 'myserver' stderr output:
+<function _collection_gced at 0x7fa8b76da7d0>
+2014-08-22 19:58:05,697 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:58:05,697 DEBG 'myserver' stderr output:
+ ignored
+
+2014-08-22 19:58:05,699 DEBG 'myserver' stderr output:
+: 0 in <function _collection_gced at 0x7fa8b76da7d0> ignored
+
+2014-08-22 19:58:05,703 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:58:05,707 DEBG 'myserver' stderr output:
+: 0 in <function _collection_gced at 0x7fa8b76da7d0> ignored
+
+2014-08-22 19:58:05,711 DEBG 'myserver' stderr output:
+SystemExit
+2014-08-22 19:58:05,711 DEBG 'myserver' stderr output:
+: 
+2014-08-22 19:58:05,712 DEBG 'myserver' stderr output:
+0
+2014-08-22 19:58:05,712 DEBG 'myserver' stderr output:
+ in 
+2014-08-22 19:58:05,713 DEBG 'myserver' stderr output:
+<function _collection_gced at 0x7fa8b76da7d0>
+2014-08-22 19:58:05,713 DEBG 'myserver' stderr output:
+ ignored
+
+2014-08-22 19:58:05,799 DEBG 'myserver' stderr output:
+2014-08-22 19:58:05 [18384] [INFO] Shutting down: Master
+
+2014-08-22 19:58:05,815 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139652540240312 for <Subprocess at 139652549324744 with name myserver in state STOPPING> (stdout)>
+2014-08-22 19:58:05,816 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139652540240384 for <Subprocess at 139652549324744 with name myserver in state STOPPING> (stderr)>
+2014-08-22 19:58:05,816 INFO stopped: myserver (exit status 0)
+2014-08-22 19:58:05,816 DEBG received SIGCLD indicating a child quit
+2014-08-23 00:01:59,254 CRIT Set uid to user 0
+2014-08-23 00:01:59,266 INFO daemonizing the supervisord process
+2014-08-23 00:01:59,267 INFO supervisord started with pid 20806
+2014-08-23 00:02:00,279 INFO spawned: 'myserver' with pid 20807
+2014-08-23 00:02:00,463 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20807] [INFO] Starting gunicorn 18.0
+
+2014-08-23 00:02:00,465 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20807] [INFO] Listening at: http://0.0.0.0:5000 (20807)
+
+2014-08-23 00:02:00,465 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20807] [INFO] Using worker: sync
+
+2014-08-23 00:02:00,473 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20812] [INFO] Booting worker with pid: 20812
+
+2014-08-23 00:02:00,494 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20813] [INFO] Booting worker with pid: 20813
+
+2014-08-23 00:02:00,526 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20814] [INFO] Booting worker with pid: 20814
+
+2014-08-23 00:02:00,570 DEBG 'myserver' stderr output:
+2014-08-23 00:02:00 [20815] [INFO] Booting worker with pid: 20815
+
+2014-08-23 00:02:01,571 INFO success: myserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-08-24 20:57:27,429 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-24 20:57:30,653 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-24 21:13:41,060 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-24 21:13:43,896 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-25 06:55:50,833 DEBG 'myserver' stderr output:
+2014-08-25 06:55:50 [24002] [INFO] Booting worker with pid: 24002
+
+2014-08-26 06:38:38,269 DEBG 'myserver' stderr output:
+2014-08-26 06:38:38 [25716] [INFO] Booting worker with pid: 25716
+
+2014-08-27 03:51:36,046 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-27 03:51:38,699 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-27 05:04:06,839 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-27 05:04:11,440 DEBG 'myserver' stderr output:
+2014-08-27 05:04:11 [26540] [INFO] Booting worker with pid: 26540
+
+2014-08-27 05:04:11,568 DEBG 'myserver' stderr output:
+/usr/local/lib/python2.7/dist-packages/skimage/measure/_label.py:4: skimage_deprecation: Call to deprecated function ``label``. Use ``skimage.measure.label`` instead.
+  return _label(input, neighbors, background, return_num)
+
+2014-08-27 07:00:04,763 DEBG 'myserver' stderr output:
+2014-08-27 07:00:04 [27065] [INFO] Booting worker with pid: 27065
+
+2014-09-04 16:36:00,800 DEBG 'myserver' stderr output:
+2014-09-04 16:36:00 [1660] [INFO] Booting worker with pid: 1660
+

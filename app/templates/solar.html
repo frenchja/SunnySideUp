@@ -48,7 +48,12 @@ function createChart()
             new Chart(ctx).Line(data, options);
         }
 </script>
+<script>
+$("#myChart").attr('width', document.getElementById("jason").offsetWidth)
+</script>
 {% endblock %}
+
+
 
 {% block content %}
 <body onload="createChart();">
@@ -112,7 +117,8 @@ function createChart()
         <ul>
           <li>Latitude: {{ lat|round(2, 'common') }}</li>
           <li>Longitude: {{ lng|round(2, 'common') }}</li>
-        <img class="img-responsive img-rounded" src="{{ url_for('getMap', address=address) }}" style="margin-left:auto;margin-right:auto;"/>
+  </ul>
+	  <img class="img-responsive img-rounded" src="{{ url_for('getMap', address=address) }}" style="margin-left:auto;margin-right:auto;"/>
       </div>
       </div>
 </div>
@@ -158,10 +164,10 @@ function createChart()
   <div class="panel-heading">
     <h3 class="panel-title text-center">Savings Over Time</h3>
   </div>
-  <div class="panel-body">
+  <div id='jason' class="panel-body">
         <p class="lead">
-        <canvas id="myChart" width="800" height="400"></canvas>
-        </p>
+	<canvas id="myChart" class="img-responsive" height="400"></canvas>
+	</p>
       </div>
       </div></div></div>
       
@@ -181,7 +187,6 @@ function createChart()
     </div>
     </div>
     </div>
-
     <!-- /END THE FEATURETTES -->
 
     <!-- FOOTER -->
